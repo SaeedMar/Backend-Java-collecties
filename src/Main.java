@@ -34,3 +34,4 @@ public class Main {
 
     }
 }
+//ik had geen tijd om de bonous te doen , want ik heb de material van de volgende les gelezen in plaats van de materiaal van die les "
